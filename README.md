@@ -9,7 +9,7 @@ I created this repository for javascript projects, which I completed during my c
   *  write program there ,save it  and on right clicking copy the file path and paste it in chrome ,you will get output ,whenever you do changes in program first save it and then      refresh chrome file path , **the program not going to show any output if there any error in program or you missed something **.
   
   # Credits :
-   I thanks to **greatlearning** and mentor **Ritwik Raj** sir.
+   I thanks to **greatlearning** and mentor **Ritwik Raj** sir for guiding.
    
    
 
